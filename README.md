@@ -1,6 +1,6 @@
 # Zcoin TON Docs
 Zcoin TON project's documentation
 
-### Docs added with start project.
+### Documentation will be added when the project starts.
 
 Please see root page: https://zcoin.to
